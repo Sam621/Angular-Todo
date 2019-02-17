@@ -1,0 +1,16 @@
+.header {
+  background:crimson;
+  color: #fff;
+  text-align: center;
+  padding: 10px;
+}
+
+.header a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.nav{
+  text-align: center;
+  background-color:rgb(216, 144, 144);
+}

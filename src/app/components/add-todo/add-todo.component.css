@@ -1,0 +1,35 @@
+.form {
+  display: flex;
+}
+
+.form-inline {
+  display: flex;
+  padding: 10px;
+}
+
+.form input[type='text'] {
+  flex: 10;
+  padding: 5px;
+}
+
+.form input[type='submit'] {
+  flex: 2;
+  background-color: brown;
+}
+
+.form input[type='checkbox'] {
+  flex: 10;
+  padding: 5px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: 1rem;
+  float: left;
+  vertical-align:middle;
+}
+
+.completed {
+  flex: 10;
+  padding: 5px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: 1rem;
+  float: left;
+}
